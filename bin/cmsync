@@ -2,4 +2,4 @@
 
 require 'cmsync'
 
-Cmsync::Cli.start(ARGV)
+Cmsync::CmsyncCli.start(ARGV)
